@@ -1,0 +1,98 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "q7",
+      "request": "launch",
+      "mainClass": "step1.lec4.q7",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q6",
+      "request": "launch",
+      "mainClass": "step1.lec4.q6",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q5",
+      "request": "launch",
+      "mainClass": "step1.lec4.q5",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q4",
+      "request": "launch",
+      "mainClass": "step1.lec4.q4",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q3",
+      "request": "launch",
+      "mainClass": "step1.lec4.q3",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "step1.lec4.q2",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q1",
+      "request": "launch",
+      "mainClass": "step1.lec4.q1",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "que8",
+      "request": "launch",
+      "mainClass": "step1.lec1.que8",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "que4",
+      "request": "launch",
+      "mainClass": "step1.lec1.que4",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "que3",
+      "request": "launch",
+      "mainClass": "step1.lec1.que3",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "que1",
+      "request": "launch",
+      "mainClass": "step1.lec1.que1",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "que1",
+      "request": "launch",
+      "mainClass": "lec1.easy.que1",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    }
+  ]
+}
