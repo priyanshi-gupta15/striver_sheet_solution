@@ -6,6 +6,69 @@
   "configurations": [
     {
       "type": "java",
+      "name": "q9",
+      "request": "launch",
+      "mainClass": "step1.lec5.q9",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q8",
+      "request": "launch",
+      "mainClass": "step1.lec5.q8",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q7",
+      "request": "launch",
+      "mainClass": "step1.lec5.q7",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q6",
+      "request": "launch",
+      "mainClass": "step1.lec5.q6",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q5",
+      "request": "launch",
+      "mainClass": "step1.lec5.q5",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q4",
+      "request": "launch",
+      "mainClass": "step1.lec5.q4",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q3",
+      "request": "launch",
+      "mainClass": "step1.lec5.q3",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "step1.lec5.q2",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q1",
+      "request": "launch",
+      "mainClass": "step1.lec5.q1",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
       "name": "q7",
       "request": "launch",
       "mainClass": "step1.lec4.q7",
