@@ -6,6 +6,293 @@
   "configurations": [
     {
       "type": "java",
+      "name": "q3",
+      "request": "launch",
+      "mainClass": "step10.medium.q3",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "step10.medium.q2",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q1",
+      "request": "launch",
+      "mainClass": "step10.medium.q1",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "leetcodeque",
+      "request": "launch",
+      "mainClass": "step1.lec6.leetcodeque",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q",
+      "request": "launch",
+      "mainClass": "step3.hard.q",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q6",
+      "request": "launch",
+      "mainClass": "step3.hard.q6",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q5",
+      "request": "launch",
+      "mainClass": "step3.hard.q5",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "step3.hard.q2",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q1",
+      "request": "launch",
+      "mainClass": "step3.hard.q1",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q14",
+      "request": "launch",
+      "mainClass": "step3.medium.q14",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q10",
+      "request": "launch",
+      "mainClass": "step3.medium.q10",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q9",
+      "request": "launch",
+      "mainClass": "step3.medium.q9",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q7",
+      "request": "launch",
+      "mainClass": "step3.medium.q7",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q6",
+      "request": "launch",
+      "mainClass": "step3.medium.q6",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q5",
+      "request": "launch",
+      "mainClass": "step3.medium.q5",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q4",
+      "request": "launch",
+      "mainClass": "step3.medium.q4",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q3",
+      "request": "launch",
+      "mainClass": "step3.medium.q3",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "step3.medium.q2",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q1",
+      "request": "launch",
+      "mainClass": "step3.medium.q1",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q14",
+      "request": "launch",
+      "mainClass": "step3.easy.q14",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q13",
+      "request": "launch",
+      "mainClass": "step3.easy.q13",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q12",
+      "request": "launch",
+      "mainClass": "step3.easy.q12",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q11",
+      "request": "launch",
+      "mainClass": "step3.easy.q11",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q10",
+      "request": "launch",
+      "mainClass": "step3.easy.q10",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q9",
+      "request": "launch",
+      "mainClass": "step3.easy.q9",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q8",
+      "request": "launch",
+      "mainClass": "step3.easy.q8",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q7",
+      "request": "launch",
+      "mainClass": "step3.easy.q7",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q6",
+      "request": "launch",
+      "mainClass": "step3.easy.q6",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q5",
+      "request": "launch",
+      "mainClass": "step3.easy.q5",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q4",
+      "request": "launch",
+      "mainClass": "step3.easy.q4",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q3",
+      "request": "launch",
+      "mainClass": "step3.easy.q3",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "step3.easy.q2",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q1",
+      "request": "launch",
+      "mainClass": "step3.easy.q1",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "recursive_insertion",
+      "request": "launch",
+      "mainClass": "step2.lec2.recursive_insertion",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "recusive_bubblesort",
+      "request": "launch",
+      "mainClass": "step2.lec2.recusive_bubblesort",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "mergesort",
+      "request": "launch",
+      "mainClass": "step2.lec2.mergesort",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "insertionsort",
+      "request": "launch",
+      "mainClass": "step2.lec1.insertionsort",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "selectionsort",
+      "request": "launch",
+      "mainClass": "step2.lec1.selectionsort",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "buublesort",
+      "request": "launch",
+      "mainClass": "step2.lec1.buublesort",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q2",
+      "request": "launch",
+      "mainClass": "step1.lec6.q2",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
+      "name": "q3",
+      "request": "launch",
+      "mainClass": "step1.lec6.q3",
+      "projectName": "striver_sheet_9b632a16"
+    },
+    {
+      "type": "java",
       "name": "q9",
       "request": "launch",
       "mainClass": "step1.lec5.q9",
